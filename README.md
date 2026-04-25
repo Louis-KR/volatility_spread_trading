@@ -1,2 +1,2 @@
 # volatility_spread_trading
-Volatility Spread Trading (Python): Delta-hedged application to Swiss market (ABBN SE vs SMI Index)
+Systematic Volatility Spread Trading (Python): Delta-hedged application to Swiss market (ABBN SE vs SMI Index).
